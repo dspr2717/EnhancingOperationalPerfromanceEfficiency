@@ -9,7 +9,7 @@ While working at Volvo, I completed a project that required to perform
 <br>4. Strategic Implementations - Developed strategic initiatives for better performance</p>
 
 Above all concepts are applied to below real-time working project 
-<h3 align="Center"> "Enhancing Operational Performance and Efficiency </h3>
+<h3 align="Center"> Enhancing Operational Performance and Efficiency </h3>
 <h4 align="left">Summary</h4>
 This internship project focused on improving operational efficiency at Volvo. 
 By analyzing claims data, the project aimed to:
